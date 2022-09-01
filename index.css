@@ -1,0 +1,143 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.wrapp{
+    width: 1600px;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+.heand{
+    height: 50px;
+    background-color: #e3e4e5;
+}
+.heand .heand_one{
+    float: left;
+    margin-left: 20px;
+    width: 60px;
+    height: 50px;
+}
+.heand_one img{
+    margin-top: 10px;
+}
+.heand_one p{
+    line-height: 60px;
+    color: #fdfdfd;
+    font-size: 6px;
+}
+.hean_two{
+    float: left;
+    width: 220px;
+    height: 50px;
+    margin-left: 416px;
+}
+.hean_two span,p{
+    float: left;
+    line-height: 50px;
+}
+.hean_two span{
+    margin-right: 10px;
+}
+.heand_three{
+    float: left;
+    margin-left: 100px;
+    width: 500px;
+    height: 50px;
+}
+.heand_three ul{
+    list-style: none;
+}
+.heand_three a{
+    text-decoration: none;
+    color: #fdfdfd;
+
+}
+.heand_three  li{
+    float: left;
+    line-height: 50px;
+    margin-right: 8px;
+}
+.top{
+    height: 174px;
+    /* background-color: rgb(189, 47, 47); */
+}
+.top h1 img{
+    float: left;
+    width: 150px;
+    height: 127px;
+    margin-top: 30px;
+}
+.top .top_one{
+    float: left;
+    position: relative;
+    margin-left: 133px;
+    width: 490px;
+    height: 36px;
+}
+.top_one input{
+    float: left;
+    width: 430px;
+    height: 32px;
+    margin-top: 32px;
+    border: 1px solid red;
+}
+.top .top_one ul{
+    list-style: none;
+}
+.top_one ul li{
+    float: left;
+    left: 30px;
+    margin-right: 10px;
+}
+.top_one ul a{
+    text-decoration: none;
+    color: #e3e4e5;
+}
+.top_one button{
+    position: absolute;
+
+    float: left;
+    width: 58px;
+    height: 34px;
+    margin-top:32px;
+    background-color: red;
+    color:#fff;
+}
+.top_three{
+    float: left;
+    margin-top: 30px;
+    margin-left: 41px;
+    width: 166px;
+    height: 40px;
+}
+.top_three button{
+    width: 166px;
+    height: 40px;
+    border: 1px solid #e3e4e5;
+    color: red;
+}
+.top .top_four{
+    float: left;
+    margin-top: 50px;
+    margin-left:130px;
+    width: 722px;
+    height: 30px;
+}
+.top_four ul{
+    list-style: none;
+}
+.top_four ul li{
+    float: left;
+    margin-right: 30px;
+    font-size: 20px;
+    color: black;
+}
+.top_four ul li:first-child{
+    color: red;
+}
+.banner {
+    height: 400px;
+    background-image: url(./images/bannerback.png);
+   background-repeat: no-repeat;
+    background-size: contain;
+}
